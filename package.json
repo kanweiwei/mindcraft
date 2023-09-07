@@ -1,0 +1,16 @@
+{
+  "name": "mindcraft",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "kanweiwei",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kanweiwei/mindcraft.git"
+  },
+  "description": "mindmap",
+  "keywords": ["mindmap"],
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

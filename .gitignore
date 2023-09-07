@@ -1,0 +1,8 @@
+#ide
+.vscode
+.idea
+.DS_Store
+
+#npm
+node_modules
+*.tsbuildinfo
